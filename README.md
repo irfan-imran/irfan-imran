@@ -1,17 +1,21 @@
 <img width="2172" height="724" alt="GitHub Banner Image" src="https://github.com/user-attachments/assets/097bfec6-1eaf-4059-b43f-2def91e8fbe4" />
+
 <br/>
+
 ## 👨‍💻 About
 
 I’m a Digital Design and Development student at Republic Polytechnic, exploring the space where design, software, and usability meet.
 
 I focus on building clean frontend experiences with React and React Native, while strengthening my understanding of backend integration, software testing, and maintainable application structure.
+
 <br/>
+
 ## ⚒️ Tech Stack
 
 <p>
   <img height="32" src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
 </p>
-<br/>
+
 ## 🎯 Current Direction
 
 | Area | Focus |
@@ -20,7 +24,9 @@ I focus on building clean frontend experiences with React and React Native, whil
 | **Backend Integration** | Python, FastAPI, Firebase, SQL |
 | **Design & Usability** | UI/UX, accessibility, user-focused flows |
 | **Software Practice** | Testing, documentation, maintainable code |
+
 <br/>
+
 ## 🌐 Links
 
 <p>
