@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,python,fastapi,firebase,mysql,js,html,css,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
 </p>
 
 ---
