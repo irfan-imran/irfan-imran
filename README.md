@@ -16,6 +16,8 @@ I focus on building clean frontend experiences with React and React Native, whil
   <img height="32" src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
 </p>
 
+<br/>
+
 ## 🎯 Current Direction
 
 | Area | Focus |
