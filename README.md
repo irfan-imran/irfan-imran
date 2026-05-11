@@ -13,49 +13,38 @@
   <a href="mailto:irfanimran.dev@gmail.com">Email</a>
 </p>
 
----
 
-## About
+<h2 style="color:#ff7f50;">About</h2>
 
 I’m a Digital Design and Development student at Republic Polytechnic, exploring the space where design, software, and usability meet.
 
 I focus on building clean frontend experiences with React and React Native, while strengthening my understanding of backend integration, software testing, and maintainable application structure.
 
----
 
-## Tech Stack
 
-<p>
-  <img height="36" src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
+<h2 style="color:#ff7f50;">Tech Stack</h2>
+<p align="center">
+  <img height="32" src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
 </p>
 
----
 
-## Current Direction
+<h2 style="color:#ff7f50;">Current Direction</h2>
+> **Frontend Development**  
+> React, React Native, responsive UI
 
-<table>
-  <tr>
-    <td><b>Frontend Development</b></td>
-    <td>React, React Native, responsive UI</td>
-  </tr>
-  <tr>
-    <td><b>Backend Integration</b></td>
-    <td>Python, FastAPI, Firebase, SQL</td>
-  </tr>
-  <tr>
-    <td><b>Design & Usability</b></td>
-    <td>UI/UX, accessibility, user-focused flows</td>
-  </tr>
-  <tr>
-    <td><b>Software Practice</b></td>
-    <td>Testing, documentation, maintainable code</td>
-  </tr>
-</table>
+> **Backend Integration**  
+> Python, FastAPI, Firebase, SQL
 
----
+> **Design & Usability**  
+> UI/UX, accessibility, user-focused flows
 
-## Links
+> **Software Practice**  
+> Testing, documentation, maintainable code
 
+<br/>
+
+
+<h2 style="color:#ff7f50;">Links</h2>
 <p>
   🌐 <a href="https://irfanimran.com">irfanimran.com</a><br/>
   💼 <a href="https://www.linkedin.com/in/irfan-imran-858463338">linkedin.com/in/irfan-imran-858463338</a><br/>
