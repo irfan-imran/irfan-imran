@@ -1,14 +1,5 @@
 <img width="2172" height="724" alt="GitHub Banner Image" src="https://github.com/user-attachments/assets/097bfec6-1eaf-4059-b43f-2def91e8fbe4" />
 
-# Irfan Imran
-
-**Design × Development**  
-Web · Mobile · UI/UX · Software
-
-[Portfolio](https://irfanimran.com) ·
-[LinkedIn](https://www.linkedin.com/in/irfan-imran-858463338) ·
-[Email](mailto:irfanimran.dev@gmail.com)
-
 ## 👨‍💻 About
 
 I’m a Digital Design and Development student at Republic Polytechnic, exploring the space where design, software, and usability meet.
