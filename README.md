@@ -15,7 +15,7 @@
 
 ---
 
-### About
+## About
 
 I’m a Digital Design and Development student at Republic Polytechnic, exploring the space where design, software, and usability meet.
 
@@ -23,15 +23,15 @@ I focus on building clean frontend experiences with React and React Native, whil
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p>
-  <img height="36" src="https://skillicons.dev/icons?i=react,reactnative,python,fastapi,firebase,mysql,js,html,css,git,figma" />
+  <img height="36" src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
 </p>
 
 ---
 
-### Current Direction
+## Current Direction
 
 <table>
   <tr>
@@ -54,12 +54,12 @@ I focus on building clean frontend experiences with React and React Native, whil
 
 ---
 
-### Links
+## Links
 
 <p>
-  <a href="https://irfanimran.com">🌐 Website</a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/irfan-imran-858463338">💼 LinkedIn</a> &nbsp;&nbsp;
-  <a href="mailto:irfanimran.dev@gmail.com">📧 Email</a>
+  🌐 <a href="https://irfanimran.com">irfanimran.com</a><br/>
+  💼 <a href="https://www.linkedin.com/in/irfan-imran-858463338">linkedin.com/in/irfan-imran-858463338</a><br/>
+  📧 <a href="mailto:irfanimran.dev@gmail.com">irfanimran.dev@gmail.com</a>
 </p>
 
 <p align="center">
