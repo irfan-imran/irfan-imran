@@ -32,9 +32,9 @@ I focus on building clean frontend experiences with React and React Native, whil
 ## 🌐 Links
 
 <p>
-  🌐 <a href="https://irfanimran.com">irfanimran.com</a><br/>
-  💼 <a href="https://www.linkedin.com/in/irfan-imran-858463338">linkedin.com/in/irfan-imran-858463338</a><br/>
-  📧 <a href="mailto:irfanimran.dev@gmail.com">irfanimran.dev@gmail.com</a>
+  🌐 <a href="https://irfanimran.com" target="_blank">irfanimran.com</a><br/>
+  💼 <a href="https://www.linkedin.com/in/irfan-imran-858463338" target="_blank">linkedin.com/in/irfan-imran-858463338</a><br/>
+  📧 <a href="mailto:irfanimran.dev@gmail.com" target="_blank">irfanimran.dev@gmail.com</a>
 </p>
 
 <p align="center">
