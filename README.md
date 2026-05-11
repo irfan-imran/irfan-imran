@@ -1,60 +1,58 @@
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF7F50&text=Irfan%20Imran&fontAlign=50&fontAlignY=40&fontSize=48&desc=Software%20Development%20Student&descAlignY=60" />
-</p> -->
 <img width="2172" height="724" alt="GitHub Banner Image" src="https://github.com/user-attachments/assets/097bfec6-1eaf-4059-b43f-2def91e8fbe4" />
+
+<br/>
 
 <h1 align="center">Hi, I'm Irfan 👋</h1>
 
 <p align="center">
-  Software Development Student • React & React Native • UI/UX • Full-Stack Development
+  I design and build web/mobile experiences with a focus on clean interfaces, practical systems, and thoughtful user experience.
 </p>
 
 <p align="center">
-  <a href="https://irfanimran.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/irfan-imran-858463338">LinkedIn</a> •
-  <a href="mailto:irfanimran.dev@gmail.com">Email</a>
+  <a href="https://irfanimran.com"><b>Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/irfan-imran-858463338"><b>LinkedIn</b></a> ·
+  <a href="mailto:irfanimran.dev@gmail.com"><b>Email</b></a>
 </p>
 
----
+<br/>
 
-## 🚀 About Me
+## About
 
-- 🎓 Diploma in Digital Design and Development @ Republic Polytechnic
-- 💻 Interested in full-stack web development, software engineering, and UI/UX
-- 📱 Building web and mobile applications using modern technologies
-- 🌱 Continuously learning and exploring new technologies and development practices
+I'm a Digital Design and Development student at Republic Polytechnic, exploring the space where design, software, and usability meet.
 
----
+My current focus is on building polished frontend experiences with React and React Native, while strengthening my understanding of backend integration, software testing, and maintainable application structure.
 
-## 🛠 Tech Stack
+<br/>
+
+## What I Work With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,python,fastapi,firebase,mysql,js,html,css,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,python,fastapi,firebase,mysql,js,html,css,git,figma" />
 </p>
 
----
+<br/>
 
-## 📌 Current Focus
+## Current Direction
 
-- Developing responsive and interactive web applications
-- Improving frontend architecture and UI/UX design skills
-- Exploring scalable backend development with FastAPI
-- Building polished and maintainable software projects
+```txt
+Frontend Development     React, React Native, responsive UI
+Backend Integration      Python, FastAPI, Firebase, SQL
+Design & Usability       UI/UX, accessibility, user-focused flows
+Software Practice        testing, documentation, maintainable code
+```
 
----
+<br/>
 
-## 📫 Connect With Me
+## Links
 
 <p>
-  <a href="https://irfanimran.com">🌐 Portfolio Website</a>
-  <br/>
-  <a href="https://www.linkedin.com/in/irfan-imran-858463338">💼 LinkedIn</a>
-  <br/>
-  <a href="mailto:irfanimran.dev@gmail.com">📧 irfanimran.dev@gmail.com</a>
+  🌐 <a href="https://irfanimran.com">irfanimran.com</a><br/>
+  💼 <a href="https://www.linkedin.com/in/irfan-imran-858463338">linkedin.com/in/irfan-imran-858463338</a><br/>
+  📧 <a href="mailto:irfanimran.dev@gmail.com">irfanimran.dev@gmail.com</a>
 </p>
 
----
+<br/>
 
 <p align="center">
-  <i>“Striving to build thoughtful, polished, and impactful software.”</i>
+  <sub>Design × Development · Web · Mobile · UI/UX · Software</sub>
 </p>
