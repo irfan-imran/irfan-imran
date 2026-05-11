@@ -1,6 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF7F50&text=Irfan%20Imran&fontAlign=50&fontAlignY=40&fontSize=48&desc=Software%20Development%20Student&descAlignY=60" />
-</p>
+</p> -->
+<img width="2172" height="724" alt="GitHub Banner Image" src="https://github.com/user-attachments/assets/097bfec6-1eaf-4059-b43f-2def91e8fbe4" />
 
 <h1 align="center">Hi, I'm Irfan 👋</h1>
 
